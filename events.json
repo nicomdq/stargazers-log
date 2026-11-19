@@ -1,0 +1,20 @@
+[
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "url": "https://github.com/microsoft/vscode",
+    "starredAt": "2025-01-15"
+  },
+  {
+    "name": "facebook/react",
+    "description": "The library for web and native user interfaces",
+    "url": "https://github.com/facebook/react",
+    "starredAt": "2025-02-08"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for production",
+    "url": "https://github.com/vercel/next.js",
+    "starredAt": "2025-03-21"
+  }
+]
